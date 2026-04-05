@@ -14,10 +14,10 @@
 
 ## 🧠 Architecture
 
-```mermaid
+
 flowchart LR
 User 🌐 --> Nginx ⚡ --> Django 🐍 --> MySQL 🗄️
-```
+
 
 ---
 
